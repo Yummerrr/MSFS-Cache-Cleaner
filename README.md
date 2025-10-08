@@ -112,25 +112,6 @@ Advanced mod/tool for cleaning Microsoft Flight Simulator 2020 cache files, desi
 **Compatibility:** Windows 11 v24H2  
 **Language:** English  
 **License:** Professional Use
-About v2.0
-MSFS 2020 Professional Cache Cleaner v2.0 brings a modern, user-friendly dark interface and enhanced reliability for Windows 11, supporting efficient cleaning of MSFS 2020 cache, NVIDIA cache, temp files, and DirectX shader cache—with automatic MSFS closing and full log history.
 
-Planned for Future Versions
-Automatic Scheduled Cleaning: Set automatic cache cleaning at regular intervals
 
-Full Steam Version Support: Expand compatibility with both Microsoft Store and Steam editions
-
-One-Click Backup: Safely back up cache folders before cleaning
-
-Multi-language UI: English, Polish, and more languages in settings
-
-Advanced Cleaning Filters: Select specific cache/types to clean
-
-Performance Analytics: Display game load times before and after cleaning
-
-Notifications: Get alerts when cleaning is completed or when errors are detected
-
-Command Line Mode: Use in scripts/automation tasks
-
-Cloud Sync: Save and sync preferences
 
